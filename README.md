@@ -76,22 +76,10 @@
 >
 > Open your browser at `http://localhost:8501`
 >
-> ---
 >
-> ## ☁️ Deploy on Streamlit Cloud
+> ## 📁 Project Structure
 >
-> 1. Push your code to this GitHub repository
-> 2. 2. Go to [share.streamlit.io](https://share.streamlit.io)
->    3. 3. Connect your GitHub account and select this repo
->       4. 4. Set **Main file path** to `app.py`
->          5. 5. Add your secrets (`N8N_WEBHOOK_URL`) in the **Advanced settings**
->             6. 6. Click **Deploy** 🚀
->               
->                7. ---
->               
->                8. ## 📁 Project Structure
->               
->                9. ```
+> ```
 > personal-assistant-n8n/
 > ├── app.py                  # Main Streamlit application
 > ├── requirements.txt        # Python dependencies
